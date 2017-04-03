@@ -13,20 +13,64 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sophia N. Wassermann
-email: hi@sowasser.com
-description: > # this means to ignore newlines until "baseurl:"
-  Porfolio and blog of Sophia N. Wassermann
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sowasser.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sowasser
-github_username:  sowasser
+# title: Sophia N. Wassermann
+# email: hi@sowasser.com
+# description: > # this means to ignore newlines until "baseurl:"
+#   Porfolio and blog of Sophia N. Wassermann
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://sowasser.com" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: sowasser
+# github_username:  sowasser
 
 # Build settings
+# markdown: kramdown
+# theme: minima
+# gems:
+#   - jekyll-feed
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+
+
+# For jekyll uno
+# Site settings
+title: Sophia N. Wassermann
+description: 'PhD Candidate in Marine Science'
+url: 'http://sowasser.com/'
+#url: 'http://127.0.0.1:4000/sowasser'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Sophia N. Wassermann'
+  email:  hi@sowasser.com
+  twitter_username:  sowasser
+  #facebook_username: sowasser
+  github_username:  sowasser
+  linkedin_username:  sophia-n-wassermann-8b562632
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
