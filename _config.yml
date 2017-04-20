@@ -35,7 +35,7 @@
 # For jekyll uno
 # Site settings
 title: Sophia N. Wassermann
-description: 'PhD Candidate in Marine Science'
+description: 'PhD Candidate in Marine Science. Interested in issues at the intersection of fisheries and climate change. Currently modelling mackerel collective behaviour.'
 url: 'http://sowasser.com/'
 #url: 'http://127.0.0.1:4000/sowasser'
 baseurl: ''
@@ -48,7 +48,7 @@ author:
   twitter_username:  sowasser
   #facebook_username: sowasser
   github_username:  sowasser
-  linkedin_username:  sophia-n-wassermann-8b562632
+  linkedin_username:  sowasser
 
 defaults:
   -
