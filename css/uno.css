@@ -937,7 +937,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #e25440; }
+	color: #11cebf; }
 	a:hover {
 		color: #b9301c;
 		-o-transition: .5s;
@@ -1085,7 +1085,7 @@ pre {
 	position: relative;
 	display: inline-block;
 	padding: 8px 18px 9px 18px;
-	background: #e25440;
+	background: #11cebf;
 	border-radius: 3px;
 	text-align: center;
 	color: #FFF; }
@@ -1210,7 +1210,7 @@ hr {
 	width: 100%;
 	max-width: none;
 	height: 100%;
-	background: url(../images/background-cover.jpg) top left no-repeat #666666;
+	background: url(../images/cover.jpg) top left no-repeat #666666;
 	background-size: cover; }
 
 .panel-cover--collapsed {
@@ -1308,13 +1308,13 @@ hr {
 
 .btn, .navigation__item a {
 	padding: 10px 20px;
-	border: 1px solid #e25440;
+	border: 1px solid #11cebf;
 	border-radius: 20px;
 	font-size: .9em;
 	font-weight: bold;
 	letter-spacing: 1px;
 	text-shadow: none;
-	color: #e25440;
+	color: #11cebf;
 	-webkit-font-smoothing: antialiased; }
 	.btn:hover, .navigation__item a:hover {
 		color: #b9301c;
