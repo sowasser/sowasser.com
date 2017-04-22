@@ -1,0 +1,194 @@
+/* 
+* Theme Name: Wizm 404!
+* Theme URI: http://www.themeforest.com
+* Description: A Responsive Error Theme Page For You
+* Author: Jogres
+* Author URI: http://www.jogres.com
+*/
+
+.bgindex, .bgwithout, .bglightpattern, .bgdarkpattern {
+	z-index: -999;
+	}	
+.bgindex {
+    background: url(../images/background/pattern/light/19.png) repeat; 	
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+	}
+.bgwithout {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+	}
+.bglightpattern {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+	}
+.bgdarkpattern {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+	}
+	
+
+/* ============ panel ================ */
+#switcher_btn {
+	width: 35px;
+	height: 33px;
+	position: fixed;
+	left: 0px;
+	top: 100px;
+	background: #efefef;
+	border: 1px solid #c9c9c9;
+	border-radius: 0px 20px 20px 0px;
+	-webkit-box-shadow: inset 0 1px 0 #fff;
+	-moz-box-shadow: inset 0 1px 0 #fff;
+	box-shadow: inset 0 1px 0 #fff;
+	display: block;
+	z-index:10000;
+	cursor: pointer;
+}
+#switcher_btn img{
+	padding: 3px 0 0 3px;
+}
+#switcher_btn a{
+	outline:none;
+}
+#styleSwitcher {
+	font-family: arial;
+	position: fixed;
+	left: 0px;
+	top: 100px;
+	padding: 10px;
+	width: 200px;
+	font-size: 11px;
+	z-index:10000;
+	background-color: #efefef ;
+	border: 1px solid #c9c9c9;
+	-webkit-box-shadow: inset 0 1px 0 #fff;
+	-moz-box-shadow: inset 0 1px 0 #fff;
+	box-shadow: inset 0 1px 0 #fff;
+	-moz-border-radius-topright:3px;
+	-webkit-border-top-right-radius:3px;
+	-moz-border-radius-bottomright:3px;
+	-webkit-border-bottom-right-radius:3px;
+	display: none;
+}
+
+#styleSwitcher span {
+	font-size: 13px;
+}
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px dashed #ccc;
+	margin: 3px 0;
+	padding: 0;}
+.pattern {
+	display: block;
+	float:left;
+	margin-right:2px;
+	margin-left:2px;
+	margin-bottom:5px;
+	border:1px solid #ccc;
+	list-style:none;
+	width: 40px;
+	height: 25px;
+}
+.close_btn{
+	position: absolute;
+	cursor: pointer;
+	display: block;
+	right: -11px;
+	top: -11px;
+}
+.bg-pattern a, .bg-style a{
+	text-decoration: none;
+	color: #000;
+}
+.bgs{line-height: 25px;}
+.bgs h6 {
+	margin-left: 5px;
+	display: inline;
+}
+
+.l01{background: url(../images/background/pattern/light/01.png) repeat;}
+.l02{background: url(../images/background/pattern/light/02.png) repeat;}
+.l03{background: url(../images/background/pattern/light/03.png) repeat;}
+.l04{background: url(../images/background/pattern/light/04.png) repeat;}
+.l05{background: url(../images/background/pattern/light/05.png) repeat;}
+.l06{background: url(../images/background/pattern/light/06.png) repeat;}
+.l07{background: url(../images/background/pattern/light/07.png) repeat;}
+.l08{background: url(../images/background/pattern/light/08.png) repeat;}
+.l09{background: url(../images/background/pattern/light/09.png) repeat;}
+.l10{background: url(../images/background/pattern/light/10.png) repeat;}
+.l11{background: url(../images/background/pattern/light/11.png) repeat;}
+.l12{background: url(../images/background/pattern/light/12.png) repeat;}
+.l13{background: url(../images/background/pattern/light/13.png) repeat;}
+.l14{background: url(../images/background/pattern/light/14.png) repeat;}
+.l15{background: url(../images/background/pattern/light/15.png) repeat;}
+.l16{background: url(../images/background/pattern/light/16.png) repeat;}
+.l17{background: url(../images/background/pattern/light/17.png) repeat;}
+.l18{background: url(../images/background/pattern/light/18.png) repeat;}
+.l19{background: url(../images/background/pattern/light/19.png) repeat;}
+.l20{background: url(../images/background/pattern/light/20.png) repeat;}
+
+
+.d01{background: url(../images/background/pattern/dark/01.png) repeat;}
+.d02{background: url(../images/background/pattern/dark/02.png) repeat;}
+.d03{background: url(../images/background/pattern/dark/03.png) repeat;}
+.d04{background: url(../images/background/pattern/dark/04.png) repeat;}
+.d05{background: url(../images/background/pattern/dark/05.png) repeat;}
+.d06{background: url(../images/background/pattern/dark/06.png) repeat;}
+.d07{background: url(../images/background/pattern/dark/07.png) repeat;}
+.d08{background: url(../images/background/pattern/dark/08.png) repeat;}
+.d09{background: url(../images/background/pattern/dark/09.png) repeat;}
+.d10{background: url(../images/background/pattern/dark/10.png) repeat;}
+.d11{background: url(../images/background/pattern/dark/11.png) repeat;}
+.d12{background: url(../images/background/pattern/dark/12.png) repeat;}
+.d13{background: url(../images/background/pattern/dark/13.png) repeat;}
+.d14{background: url(../images/background/pattern/dark/14.png) repeat;}
+.d15{background: url(../images/background/pattern/dark/15.png) repeat;}
+.d16{background: url(../images/background/pattern/dark/16.png) repeat;}
+.d17{background: url(../images/background/pattern/dark/17.png) repeat;}
+.d18{background: url(../images/background/pattern/dark/18.png) repeat;}
+.d19{background: url(../images/background/pattern/dark/19.png) repeat;}
+.d20{background: url(../images/background/pattern/dark/20.png) repeat;}
+
+
+.wo01{background: url(../images/background/01.png) no-repeat center center;}
+.wo02{background: url(../images/background/02.png) no-repeat center center;}
+.wo03{background: url(../images/background/03.png) no-repeat center center;}
+.wo04{background: url(../images/background/04.png) no-repeat center center;}
+.wo05{background: url(../images/background/05.png) no-repeat center center;}
+.wo06{background: url(../images/background/06.png) no-repeat center center;}
+.wo07{background: url(../images/background/07.png) no-repeat center center;}
+.wo08{background: url(../images/background/08.png) no-repeat center center;}
+.wo09{background: url(../images/background/09.png) no-repeat center center;}
+.wo10{background: url(../images/background/10.png) no-repeat center center;}
+.wo11{background: url(../images/background/11.png) no-repeat center center;}
+.wo12{background: url(../images/background/12.png) no-repeat center center;}
+.wo13{background: url(../images/background/13.png) no-repeat center center;}
+.wo14{background: url(../images/background/14.png) no-repeat center center;}
+.wo15{background: url(../images/background/15.png) no-repeat center center;}
+.wo16{background: url(../images/background/16.png) no-repeat center center;}
+.wo17{background: url(../images/background/17.png) no-repeat center center;}
+.wo18{background: url(../images/background/18.png) no-repeat center center;}
+.wo19{background: url(../images/background/19.png) no-repeat center center;}
+.wo20{background: url(../images/background/20.png) no-repeat center center;}
+
+.bgs01{background: url(../images/background/04.png) no-repeat center center; background-size: 75px;}
+.bgs02{background: url(../images/background/pattern/light/01.png) no-repeat center center; background-size: 75px;}
+.bgs03{background: url(../images/background/pattern/dark/01.png) no-repeat center center; background-size: 75px;}
+
+/*============== panel ===============*/
