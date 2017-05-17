@@ -1,15 +1,0 @@
----
-title:  "Watch, talk, and be merry"
-date:   2017-05-08 17:33:23
-categories: conferences, professional development
-tags: conferences, imposter syndrome
----
-
-I went to a conference a couple of weeks ago and damn are they important for professional development as a student….not to mention fun! My father is an academic/physician, so I grew up with him jetting off to conferences and meetings, and since I’m not a professional contact of his (whatever our linked-ins may suggest) I mostly heard about his distaste for business travel, rather than the relationships he built and conversations he had. Therefore, when it came time to attend my first conference, I expected it to be boring and impersonal. And, unfortunately, my first conference was not the best experience. It was no fault of the conference, but the size (~1500 people), and a snowstorm in the Midwest preventing my roommate and the only people I knew from attending, made my experience less fulfilling than it could have been. I was too awkward to seek out student events or interact with other attendees, but a bright spot was the poster session, when I got to interact with other scientists and discuss my research with complete strangers for the first time. Though I was terrified at the beginning of the session, everyone who came to see my poster was genuinely interested and unendingly friendly. Since then, I’ve had wonderful conference experiences. My second conference was the 3rd International Marine Conservation Congress in Glasgow, Scotland. I presented a poster and, more importantly, built a connection to the organizers that has led me to serving on the board of the Society. Now, I’ve given talks at two more conferences, but still, my favorite part of conferences are the conversations at coffee breaks and pub nights. I still need to work on actually approaching people and starting conversations, a manifestation of my ongoing fight against [Impostor Syndrome][IS]. Attending smaller conferences, like the [Marine Biological Association Postgraduate Conference][MBA], can help with feeling more connected to the other attendees and they are equally valuable for wonderful talks, inspiring keynotes, and intriguing posters. Not to mention pub nights and socials.All of this is to say, please go to as many conferences as you can, even if you’re not presenting. Please strike up a conversation with someone (especially if it’s me!), attend student events. Please end up talking to a scientist whose research you’ve based an entire project on at 2AM at a bar in a foreign city (or the more responsible version of that).Also, if you have ideas for student events, or want to be involved in planning the 5th IMCC, please get in touch!
-
-Best,
-
--Sophia
-
-[IS]: http://www.chronicle.com/article/Impostor-Syndrome-Is/238418  
-[MBA]: http://www.mba.ac.uk/events#b14
