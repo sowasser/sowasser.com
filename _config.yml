@@ -36,7 +36,7 @@
 # Site settings
 title: Sophia N. Wassermann
 description: 'PhD Candidate in Marine Science. Interested in computational approaches to issues at the intersection of fisheries and climate change. Currently modelling mackerel collective behaviour.'
-url: 'http://sowasser.com/'
+url: 'https://sowasser.com'
 #url: 'http://127.0.0.1:4000/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
