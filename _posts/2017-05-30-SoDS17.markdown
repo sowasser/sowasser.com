@@ -1,0 +1,27 @@
+Today I want to tell you about what I'm going to do this summer because if I tell you, you'll hold me acountable to reaching my goals. Right? Thanks.
+
+There's a challenge by Renee of the [Becoming A Data Scientist] blog, called the Summer of Data Science, ([#SoDS17] on Twitter ;). As she puts it, "The Summer of Data Science is a commitment to learn something this summer to enhance your data science skills, and to share what you learned." Sounds like the motivation I need, as I've been working on a proposal to filming social fish in an aquarium this winter so I can test both Bayesian analysis for model selection and using a neural network to create a new model of collective behaviour.
+
+Unfortunately, I know very little about Bayesian statistics or neural networks. 
+
+![my brain hurts]({{ site.url }}/assets/images/SoDS17/my_brain.gif)
+
+For the former, I'm attending a course with [Highland Statistics] in Norway (!) this fall. I'll let you know how that goes. For the latter, I'm going to attempt to teach myself. I've been researching machine learning programs using [DataSciGuide.com] and I've decided to start with the [DataCamp Deep Learning in Python] course. I chose this course because of the very good things I've heard about DataCamp and because I'm thinking that deep learning (specifically neural networks) will be the best approach for me. I found [this article] explaning the differences between machine and deep learning very helpful.
+
+I'll update this blog as I work towards my deep learning goals, including what resources I've found helpful. If you'd like to join in on the fun, check out Renee's post on the challenge here: [Summer of Data Science 2017].
+
+Onwards!
+
+![onwards]({{ site.url }}/assets/images/SoDS17/onwards.gif)
+
+
+
+
+
+[Becoming a Data Scientist]: https://www.becomingadatascientist.com
+[#SoDS17]: https://twitter.com/search?q=%23SoDS17&src=tyah&lang=en
+[Highland Statistics]: http://www.highstat.com/index.html
+[DataSciGuide.com]: http://www.datasciguide.com/
+[DataCamp Deep Learning in Python]: https://www.datacamp.com/courses/deep-learning-in-python
+[this article]: https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/
+[Summer of Data Science 2017]: https://www.becomingadatascientist.com/2017/05/29/summer-of-data-science-2017/
