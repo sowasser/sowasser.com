@@ -2,7 +2,7 @@
 title:  "Summer of Data Science"
 date:   2017-05-29 18:33:17
 categories: professional development, data science
-tags: data science
+tags: datascience
 ---
 
 Today I want to tell you about what I'm going to do this summer because if I tell you, you'll hold me accountable to reaching my goals. Right? Thanks.
