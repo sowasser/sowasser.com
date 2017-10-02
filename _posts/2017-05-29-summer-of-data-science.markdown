@@ -17,7 +17,7 @@ I'll update this blog as I work towards my deep learning mastery goals, includin
 
 Onwards!
 
-![onwards]({{ site.url }}/assets/images/summer/onwards.gif)
+![onwards](/assets/images/summer/onwards.gif)
 
 
 [BDS]: https://www.becomingadatascientist.com
