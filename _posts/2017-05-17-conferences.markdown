@@ -1,5 +1,5 @@
 ---
-title:  "Watch, talk, and be merry"
+title:  "Watch, talk, and be merry: Learning to make the most of conferences"
 date:   2017-05-17 11:51:23
 categories: conferences, professional development
 tags: conferences
