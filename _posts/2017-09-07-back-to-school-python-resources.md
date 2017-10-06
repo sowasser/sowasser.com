@@ -8,7 +8,11 @@ tags: datascience Python
 
 Ahh back to school. The time when I used to fawn over Lisa Frank school supplies. Now, I watch as undergrads, so hopeful, with so few gray hairs, once again clomp through my building. 
 
-![lisa_frank](/assets/images/back_to_school/lisa_frank.jpg)
+{% include image.html
+            img="/assets/images/back_to_school/lisa_frank.jpg"
+            title="my childhood"
+            caption="via https://goo.gl/MpdeZ5" %}
+
 
 In the spirit of the season and at the end of the [Summer of Data Science 2017 (#SoDS17)][SoDS17], I thought I'd give you a rundown of the resources I've used to teach myself Python. I didn't get very far with the deep learning goals I outlined at the beginning of the summer ([blog post here][post 1]), as I realized that I needed to focus more on the basics of Python before I tried anything more advanced ([blog post here][post 2]). All in all, though I didn't progress as far as I had wished, I do feel like I have a better foundation that will benefit me further down the road. If you're also interested in learning Python, read on!
 
