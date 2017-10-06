@@ -25,7 +25,7 @@ For the daily running of Python and for version control, I use the following too
 * For version control and to back-up of my code (avoiding the this-one.py, no-this-one.py, this-time-I-mean-it.py nomenclature), I use [GitHub][git]. Essentially, you create a folder on your computer - a repository - that syncs with your account on GitHub. This repository can be open (allowing for collaboration with other researchers) or private (if you have sensitive or proprietary information).
 * To streamline the GitHub experience, I use [GitKraken][GK], a 'graphical user interface' (GUI) for Git that makes version control much simpler and is free for students & personal use. I don't have much experience working on a repository with multiple authors, but GitKraken works well as a single author. As a bonus, their logo is a super cute squid.
 
-![GitKraken](/assets/images/tools/gitkraken.jpg)
+![GitKraken](/assets/images/tools/gitkraken.jpg){: .center-image }
 
 To learn Python, I've taken courses through [DataCamp][DC] and [DataQuest][DQ]. I went into more depth in my previous [Back to School post][post].
 
