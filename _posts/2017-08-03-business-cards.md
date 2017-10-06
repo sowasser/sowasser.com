@@ -16,7 +16,8 @@ I waited to get my cards until I had a stable position that I could put on the c
 
 {% include image.html
             img="/assets/images/business_cards/card.jpg"
-            title="my buisness card" %}
+            title="my buisness card" 
+            caption=" "%}
 
 Most importantly, I wanted custom artwork. Photographs are very popular, and stunning if you have a career involving beautiful natural vistas or photogenic study species. I, however, conduct most of my work on a computer. Without catchy photography, I decided on artwor, but have no artistic skill. So, I commissioned an [amazing artist][KO], who happens to be an old friend. I gave her a list of the species I'd studied with in the past: mackerel, capelin, lionfish, and cownose rays. As my current project involves the collective behaviour of mackerel, they feature, arranged in a shoal. She added a little lionfish and ray. There's also an Atlantic cod as capelin look too much like mackerel and Atlantic cod are their main predator in Iceland and the impetus for my capelin research. The card, therefore, is a visual representation of my résumé. If you're looking for custom art, you should [contact her][contact].
 
