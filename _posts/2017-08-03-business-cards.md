@@ -15,7 +15,7 @@ Growing up, buisness cards were what my parents had, used for luggage tags and e
 I waited to get my cards until I had a stable position that I could put on the card, but I don't think I needed to. The most important aspects of a business card are that it reminds your contact of your interaction and provides contact information. To that end, I thought I'd walk you through how I designed mine.
 
 {% include image.html
-            img="/assets/images/business_cards/card.jpg"
+            img="assets/images/business_cards/card.jpg"
             title="my buisness card" 
             caption=" "%}
 

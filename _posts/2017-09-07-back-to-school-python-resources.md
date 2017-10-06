@@ -9,7 +9,7 @@ tags: datascience Python
 Ahh back to school. The time when I used to fawn over Lisa Frank school supplies. Now, I watch as undergrads, so hopeful, with so few gray hairs, once again clomp through my building. 
 
 {% include image.html
-            img="/assets/images/back_to_school/lisa_frank.jpg"
+            img="assets/images/back_to_school/lisa_frank.jpg"
             title="my childhood"
             caption="via https://goo.gl/MpdeZ5" %}
 

@@ -26,7 +26,7 @@ For the daily running of Python and for version control, I use the following too
 * To streamline the GitHub experience, I use [GitKraken][GK], a 'graphical user interface' (GUI) for Git that makes version control much simpler and is free for students & personal use. I don't have much experience working on a repository with multiple authors, but GitKraken works well as a single author. As a bonus, their logo is a super cute squid.
 
 {% include image.html
-            img="/assets/images/tools/gitkraken.jpg"
+            img="assets/images/tools/gitkraken.jpg"
             title="GitKraken logo"
             caption="GitKraken Logo"
             url="https://www.gitkraken.com/" %}

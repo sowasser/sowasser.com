@@ -18,7 +18,7 @@ I'll update this blog as I work towards my deep learning mastery goals, includin
 Onwards!
 
 {% include image.html
-            img="/assets/images/summer/onwards.gif"
+            img="assets/images/summer/onwards.gif"
             title="Onwards!"
             caption="via https://goo.gl/nmNjdC" %}
 

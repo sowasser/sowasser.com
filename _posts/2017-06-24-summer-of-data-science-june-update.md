@@ -8,7 +8,7 @@ tags: datascience
 In my last blog post, I discussed my goals for the Summer of Data Science ([#SoDS17][#SoDS17]). I had grand plans to start investigating machine learning because I’m hoping to build a model from scratch using video of fish behaviour this winter.  Unfortunately, instead of emerging as a deep learning prodigy, I now know your pain, [Icarus][Icarus].
 
 {% include image.html
-            img="/assets/images/june_update/icarus.jpg"
+            img="assets/images/june_update/icarus.jpg"
             title="Icarus"
             caption="Is that a bit dramatic? Nah. via https://goo.gl/gmYRUj" %}
 
@@ -19,7 +19,7 @@ I’ve been using an agent-based modelling framework called [Mesa][mesa], which 
 So, I’ve gone back to basics. I first looked into the DataCamp [Python Data Science Toolbox (Part 1)][datacamp tool], but still felt a little out of my depths and went back to their [Intermediate Python for Data Science][datacamp inter] course. The intermediate material was thankfully, mercifully familiar and it helped build my confidence. I’m going forward with the Data Science Toolbox now and though I’d much rather forge ahead without reading the directions, as it were, I know I’d end up with a mess.
 
 {% include image.html
-            img="/assets/images/june_update/chair.jpg"
+            img="assets/images/june_update/chair.jpg"
             title="chair fail"
             caption="via https://i.imgur.com/u36kg.jpg" %}
 
