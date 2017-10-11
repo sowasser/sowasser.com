@@ -1193,7 +1193,8 @@ hr {
 	margin: 0 0 5px 0;
 	font-size: 2.5em;
 	letter-spacing: 4px;
-	color: #FFF; }
+	color: #FFF;
+	text-shadow: 1.3px 1.3px #2F4F4F }
 
 .panel-subtitle {
 	font-family: "Roboto Slab", serif;
@@ -1233,7 +1234,8 @@ hr {
 	margin-bottom: .2em; }
 
 .panel-cover__description {
-	margin: 0 30px; }
+	margin: 0 30px;
+	text-shadow: 1px 1px #2F4F4F; }
 
 .panel-cover__divider {
 	width: 50%;
