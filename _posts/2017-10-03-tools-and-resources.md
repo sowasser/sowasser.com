@@ -8,7 +8,11 @@ tags: datascience academics
 To celebrate starting the second year of my PhD (holy #%@!), I've created list of resources and tools I've been using for Python, version control, managing literature, this website, _etc_. I hope it's useful for anyone starting a computational science project and if you're embarking on a PhD, best of luck; it's a cake walk.
 
 
-One caveat: I use a Mac because that's how I was raised and therefore all the resources below are tailored to macOS. I'm sorry if you use Windows and this isn't super helpful. If you have any questions, please send me an email, get in touch on Twitter, or call into the wind when it blows in cold from the East. Without further ado:
+One caveat: I use a Mac because that's how I was raised and therefore all the resources below are tailored to macOS. I'm sorry if you use Windows and this isn't super helpful. 
+
+{% include image.html img="assets/images/tools/desk.jpg" title="desk setup" caption="My cheery little desk, made prettier by an instagram filter, ofc." url="https://www.instagram.com/so.wasser/" %}
+
+If you have any questions, please send me an email, get in touch on Twitter, or call into the wind when it blows in cold from the East. Without further ado:
 
 
 ## Python & Version Control
