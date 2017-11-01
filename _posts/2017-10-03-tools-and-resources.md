@@ -41,7 +41,7 @@ To learn Python, I've taken courses through [DataCamp][DC] and [DataQuest][DQ]. 
 ## Writing & Reference Management
 Despite my better-half's best efforts, I'm still using Microsoft Word. He recommends [LaTeX][latex], a text editing language that allows for much greater control and is used for most (if not all) journal formatting. I made my CV in it using [Overleaf][overleaf], an online LaTeX editor. My main hold-out with Word is Track Changes. However, [ShareLaTex][SLT], which allows for similar editing to Track Changes and same-time collaboration, is joining Overleaf, so I might be persuaded to jump ship!
 
-I use [Mendeley][M] as my reference manager, a necessary tool, now that I'm reading more papers than ever, for multiple projects. It's similar to EndNote and other technologies, but it's free! You import your papers into a library, which can then be organized into sub-folders, and there's a plugin for Word that automates citation and generates your reference list, with a library of styles from various journals and professional societies. It also provides BibTeX export to use with LaTeX. My other favourite aspect is that they have an app, so all my papers are synced with my phone & tablet and I can read and annotate on the go. Just make sure the labelling is correct when you import your papers into Mendeley and you'll be golden moving forward.
+I use [Mendeley][M] as my reference manager, a necessary tool, now that I'm reading more papers than ever, for multiple projects. It's similar to EndNote and other technologies, but it's free! You import your papers into a library, which can then be organized into sub-folders, and there's a plugin for Word that automates citation and generates your reference list, with a library of styles from various journals and professional societies. It also provides BibTeX export to use with LaTeX. My other favorite aspect is that they have an app, so all my papers are synced with my phone & tablet and I can read and annotate on the go. Just make sure the labelling is correct when you import your papers into Mendeley and you'll be golden moving forward.
 
 I also keep copies of all the papers I download in [Dropbox][db], which can also be accessed on mobile devices. In fact, I keep all my important Word files in Dropbox as a backup and so I can access my work from my laptop.
 
@@ -57,7 +57,7 @@ As for this website, my goal is to maintain a record of my PhD, providing conten
 
 * [Jekyll][jekyll], a static website builder. To be completely honest, I got a lot of help with how to install Jekyll, as it's built with Ruby, but they have [guides on their website][j-howto].
 * The theme is [jekyll-uno][uno].
-* It's hosted using [Amazon Web Services (AWS)][AWS] S3, which ends up costing me about 50¢ a month. Again, I know embarrassingly little about how it works, but it's pretty easy to use. The domain was approximately $12 and I also use my own domain for a custom email address with [FastMail][FM], which is $50 annually.
+* It's hosted using [Amazon Web Services (AWS)][AWS] S3, which ends up costing me about 50¢ a month. Again, I know embarrassingly little about how it works, but its pretty easy to use. The domain was approximately $12 and I also use my own domain for a custom email address with [FastMail][FM], which is $50 annually.
 * To connect to my AWS server, I use [Cyberduck][duck].
 * I write my posts in markdown using [MacDown][MD].
 

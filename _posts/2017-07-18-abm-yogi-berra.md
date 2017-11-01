@@ -1,12 +1,12 @@
 ---
-title:  "You Can Observe a Lot by Just Waching: Agent-Based Modelling and Yogi Berra"
+title:  "You Can Observe a Lot by Just Watching: Agent-Based Modelling and Yogi Berra"
 date:  2017-07-18 10:00:00
 categories: agent-based modelling, data science
 tags: modelling datascience
 ---
 
 
-Ahh modelling, providing the computational power to solve real-world problems. Agent-based modelling in particular, is useful for untangling the ephemeral, contradictory, unexplainable phenomena in the physcial and social world. The only limit is your imagination. And programming skill, but that's another matter.
+Ahh modelling, providing the computational power to solve real-world problems. Agent-based modelling in particular, is useful for untangling the ephemeral, contradictory, unexplainable phenomena in the physical and social world. The only limit is your imagination. And programming skill, but that's another matter.
 
 For example, the visionary [Yogi Berra][YB] once said, about a popular Italian restaurant, "no one goes there nowadays, it's too crowded", a statement at once nonsense and intuitive. Perhaps we can model it?
 
