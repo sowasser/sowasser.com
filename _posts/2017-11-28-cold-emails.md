@@ -1,5 +1,5 @@
 ---
-title: "If you wannabe their PhD student: Re-framing cold emails"
+title: "If you Wannabe their PhD Student: Re-framing Cold Emails"
 date: 2017-11-28 9:28:21
 categories:
 tags: personal academics
