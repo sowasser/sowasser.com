@@ -16,6 +16,23 @@
   <meta name="twitter:title" content="{{ site.title }}">
   <meta name="twitter:description" content="{{ site.description }}">
 
+
+{% if page.post-title %}
+  <meta name="twitter:description"
+    content="{{ page.post-title }}">
+{% else page.description %}
+  <meta name="twitter:description"
+    content="{{ page.meta_description }}"> 
+{% endif %}
+
+{% if page.image.thumb %}
+  <meta name="twitter:image"
+    content="{{ site.urlimg }}/{{ page.image.thumb }}">
+{% else %}
+  <meta name="twitter:image"
+    content="{{ site.urlimg }}/images/cover.jpg">
+{% endif %}
+
   <meta property="og:type" content="article">
   <meta property="og:title" content="{{ site.title }}">
   <meta property="og:description" content="{{ site.description }}">
