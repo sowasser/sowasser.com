@@ -14,12 +14,12 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ site.title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:description" content="{{ page.post-title }}">
 
 
-{% if h1.post-title %}
+{% if page.post-title %}
   <meta name="twitter:description"
-    content="{{ h1.post-title }}">
+    content="{{ page.post-title }}">
 {% else page.description %}
   <meta name="twitter:description"
     content="{{ site.description }}"> 
