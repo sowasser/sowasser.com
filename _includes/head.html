@@ -17,12 +17,12 @@
   <meta name="twitter:description" content="{{ site.description }}">
 
 
-{% if page.post-title %}
+{% if page.title %}
   <meta name="twitter:description"
-    content="{{ post.post-title }}">
+    content="{{ page.title }}">
 {% else page.description %}
   <meta name="twitter:description"
-    content="{{ page.meta_description }}"> 
+    content="{{ site.description }}"> 
 {% endif %}
 
 {% if page.image.thumb %}
