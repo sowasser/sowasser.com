@@ -1,5 +1,5 @@
 ---
-title: "Sometimes science is boring."
+title: "Sometimes Science is Boring."
 date: 2018-01-29 21:07:07
 tags: academics PhDlife
 ---
