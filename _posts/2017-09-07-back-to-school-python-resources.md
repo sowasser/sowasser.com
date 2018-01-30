@@ -1,7 +1,6 @@
 ---
 title: "Tools for Learning Python: End of the Summer of Data Science 2017 and Back to School"
 date: 2017-09-07 16:56:00
-categories: resources
 tags: datascience Python
 ---
 

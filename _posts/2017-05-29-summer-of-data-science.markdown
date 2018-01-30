@@ -1,7 +1,6 @@
 ---
 title:  "Summer of Data Science"
 date:   2017-05-29 18:33:17
-categories: professional development, data science
 tags: datascience
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "You Can Observe a Lot by Just Watching: Agent-Based Modelling and Yogi Berra"
 date:  2017-07-18 10:00:00
-categories: agent-based modelling, data science
 tags: modelling datascience
 ---
 

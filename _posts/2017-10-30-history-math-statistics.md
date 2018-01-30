@@ -1,7 +1,6 @@
 ---
 title: "Highland Statistics or: How I Learned to Stop Worrying and Love Stats"
 date: 2017-10-30 14:15:13
-categories: statistics
 tags: academics modelling personal
 ---
 

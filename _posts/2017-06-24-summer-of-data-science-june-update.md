@@ -1,7 +1,6 @@
 ---
 title:  "Summer of Data Science June Update: A Greek Tragedy"
 date:  2017-06-26 16:25:32
-categories: professional development, data science
 tags: datascience
 ---
 

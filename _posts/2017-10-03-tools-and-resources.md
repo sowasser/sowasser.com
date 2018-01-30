@@ -1,8 +1,7 @@
 ---
 title: "So You've Started a PhD in a Computational Science: Useful Tools & Resources"
 date: 2017-10-03 11:35:00
-categories: resources
-tags: datascience academics
+tags: datascience academics PhDlife
 ---
 
 To celebrate starting the second year of my PhD (holy #%@!), I've created list of resources and tools I've been using for Python, version control, managing literature, this website, _etc_. I hope it's useful for anyone starting a computational science project and if you're embarking on a PhD, best of luck; it's a cake walk.
