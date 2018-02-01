@@ -11,7 +11,7 @@ One caveat: I use a Mac because that's how I was raised and therefore all the re
 
 {% include image.html img="assets/images/tools/desk.jpg" title="desk setup" caption="My cheery little desk, made prettier by an instagram filter, ofc." url="https://www.instagram.com/so.wasser/" %}
 
-If you have any questions, please send me an email, get in touch on Twitter, or call into the wind when it blows in cold from the East. Without further ado:
+If you have any questions, please send me an email, get in touch on [Twitter][twitter], or call into the wind when it blows in cold from the East. Without further ado:
 
 
 ## Python & Version Control
@@ -56,24 +56,22 @@ As for this website, my goal is to maintain a record of my PhD, providing conten
 
 * [Jekyll][jekyll], a static website builder. To be completely honest, I got a lot of help with how to install Jekyll, as it's built with Ruby, but they have [guides on their website][j-howto].
 * The theme is [jekyll-uno][uno].
-* It's hosted using [Amazon Web Services (AWS)][AWS] S3, which ends up costing me about 50¢ a month. Again, I know embarrassingly little about how it works, but its pretty easy to use. The domain was approximately $12 and I also use my own domain for a custom email address with [FastMail][FM], which is $50 annually.
-* To connect to my AWS server, I use [Cyberduck][duck].
+* It's hosted using [Amazon Web Services (AWS)][AWS] S3, which ends up costing me about 50¢ a month. Again, I know embarrassingly little about how it works, but its pretty easy to use. The domain was approximately $12 and I also use my own domain for a custom email address with [FastMail][FM], which is $50 annually. Fastmail is also completely add-free, unlike gmail.
+* I have continuous deployment set up using [circleci][cc]. That means that every time I push new updates to my website to GitHub, my website is updated, automatically.
 * I write my posts in markdown using [MacDown][MD].
 
 
 ## Miscellaneous Tools
 More useful programs and resources:
 
+* I use [Spark][spark] as my desktop & mobile email client. It has a lot of fancy features, but in general I find it's sleeker than my mail app, syncs well with all of my accounts and between my devices, and has handy features for pinning emails to the top of your inbox and filtering important vs. unimportant messages. It works well with other Readdle apps, like [PDF Expert][pdf], too.
+* [SizeUp][su] is a useful tool for re-sizing windows on Mac. Great for when you need to split your screen between two windows, or move them between monitors. A small change, but a useful one!
 * [iTerm2][iterm] is a replacement for Terminal (command line) for Mac. It's more customizable than Terminal. One tip: you can control the transparency of the window, which makes it easier to read instructions and run code simultaneously. That's really nice when you're not hacker-in-a-movie proficient.
 * [Sublime Text][ST] is a text editor, useful if you need to look at a couple files in a programming language that you don't usually use. I use it mostly for JavaScript and HTML
 
 I hope this list has been useful. It's at least been long. Please get in touch if you have any questions about how or why I use these tools, or recommendations for better ones.
 
 Lastly, my final tool is the other students and post-docs around me. We're all working on different projects, but getting to sit down over a pint (of tea or beer!) with other people who are going through or have gone through the same experience is invaluable.
-
-Best,
-
--Sophia
 
 
 
@@ -97,15 +95,17 @@ Best,
 [M]: https://www.mendeley.com/
 [db]: https://www.dropbox.com/?landing=dbv2
 [branding]: http://www.bbc.com/capital/story/20170723-the-case-against-personal-brands
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/sowasser
 [LI]: https://www.linkedin.com/feed/
 [jekyll]: https://jekyllrb.com/
 [j-howto]: https://jekyllrb.com/docs/home/
 [uno]: https://github.com/joshgerdes/jekyll-uno
 [AWS]: https://aws.amazon.com/
 [FM]: https://www.fastmail.com/
-[duck]: https://cyberduck.io/?l=en
+[cc]:https://circleci.com/
 [MD]: https://macdown.uranusjr.com/
+[spark]: https://sparkmailapp.com/
+[pdf]: https://pdfexpert.com/
+[su]: http://www.irradiatedsoftware.com/sizeup/
 [iterm]: https://www.iterm2.com/
-[slack]: https://slack.com/
 [ST]: https://www.sublimetext.com/
