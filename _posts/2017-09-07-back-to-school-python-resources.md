@@ -16,7 +16,7 @@ Ahh back to school. The time when I used to fawn over Lisa Frank school supplies
 In the spirit of the season and at the end of the [Summer of Data Science 2017 (#SoDS17)][SoDS17], I thought I'd give you a rundown of the resources I've used to teach myself Python. I didn't get very far with the deep learning goals I outlined at the beginning of the summer ([blog post here][post 1]), as I realized that I needed to focus more on the basics of Python before I tried anything more advanced ([blog post here][post 2]). All in all, though I didn't progress as far as I had wished, I do feel like I have a better foundation that will benefit me further down the road. If you're also interested in learning Python, read on!
 
 
-##First off, why should you learn Python? 
+### First off, why should you learn Python? 
 Computers are a huge part of our lives and as much as I would like to keep believing they're controlled by gnomes, it's a good idea to have some concept of how programming and coding work, even if computers are still a mystery. 
 
 Also, if you're in any flavor of scientific field, programming is super useful. I'm sure those of you who have had to do any degree of quantitative work have dabbled in some statistical software: Excel, SPSS, JMP, Minitab, MatLab, etc., and probably have been exposed to R. R is great. with R and other programming languages, any statistical tests you run don't involve filling in boxes, which then disappear into a black box. You must, to some degree, understand the test if you want to make sense of it. This requires a bit more work at the beginning, but is incredibly rewarding for conducting better science. Perhaps this is a story for another time, but I thought I wasn't great at math and have ended up carving out a niche for myself in computative ecology: heavy on the math. It's really not that scary and languages like R and Python can actually help you understand statistics and modelling as you write your code.
@@ -28,7 +28,7 @@ Python is similar to R in that it's open source and widely used, but there is on
 Also, it's named after Monty Python and while that has no practical bearing on how it works, it's a fun fact.
 
 
-##So, how do you learn Python?
+### So, how do you learn Python?
 That depends mostly on how you learn. Also, one caveat: since I learned Python for data science, that's the type of resource that I am familiar with. 
 
 There are great books, explanatory videos, and online material that allow you to dive deep into the theory and practice of Python before getting your hands dirty, if that's your preferred learning style. It's not mine, so the best I can do is turn you towards [DataSciGuide.com][DSG], which has a list of [Python books][books], [podcasts][podcasts], and other resources. Full disclosure, I help maintain DataSciGuide, so if you have any recommendations, please let me know.
