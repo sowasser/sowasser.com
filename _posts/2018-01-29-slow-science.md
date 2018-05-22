@@ -4,7 +4,7 @@ date: 2018-01-29 21:07:07
 tags: academics PhDlife
 ---
 
-Starting a new year is always slow. For me, after the rush of the holidays, January feels particularly dull. The cold and the dark start to bother me in a way they didn't before the new year. These days, the my looming PhD clock also does nothing to mollify my existential wintertide dread. Ok, maybe that's a little dramatic, but, as I feel like I've been saying all year, it's a tough time of year.
+Starting a new year is always slow. For me, after the rush of the holidays, January feels particularly dull. The cold and the dark start to bother me in a way they didn't before the new year. These days, my looming PhD clock also does nothing to mollify my existential wintertide dread. Ok, maybe that's a little dramatic, but, as I feel like I've been saying all year, it's a tough time of year.
 
 In these winter doldrums, there's nothing better than diving headfirst into a mind-numbingly repetitive task. . . Right?
 
