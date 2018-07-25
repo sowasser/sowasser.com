@@ -16,14 +16,7 @@
   <!-- Twitter Cards -->
   <meta name="twitter:site"    content="@{{ site.twitter_username }}">
   <meta name="twitter:creator" content="@{{ page.author }}">
-  <meta name="twitter:title"   content="{{ page.title }}">
-
-
-  {% if page.summary %}
-  <meta name="twitter:description" content="{{ page.summary }}">
-  {% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
-  {% endif %}
+  <meta name="twitter:description"   content="{{ page.title }}">
 
   {% if page.image %}
   <meta name="twitter:card"  content="summary_large_image">
