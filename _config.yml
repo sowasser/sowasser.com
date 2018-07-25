@@ -36,6 +36,7 @@
 # Site settings
 title: Sophia N. Wassermann
 description: 'PhD Candidate in Marine Science & Irish Research Council Government of Ireland Postgraduate Scholar. Interested in computational approaches to issues at the intersection of fisheries and climate change. Currently modelling mackerel collective behaviour.'
+title_image: "https://sowasser.com/images/profile.jpg"
 url: 'https://sowasser.com'
 #url: 'http://127.0.0.1:4000/'
 baseurl: '/'
@@ -46,7 +47,6 @@ author:
   name: 'Sophia N. Wassermann'
   email:  hi@sowasser.com
   twitter_username:  sowasser
-  #facebook_username: sowasser
   github_username:  sowasser
   linkedin_username:  sowasser
 
