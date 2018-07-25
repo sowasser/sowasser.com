@@ -1,7 +1,8 @@
 ---
 title:  "Watch, talk, and be merry: Learning to make the most of conferences"
-date:   2017-05-17 11:51:23
+date: 2017-05-17 11:51:23
 tags: conferences PhDlife academics
+image: /assets/images/conferences/mba_talk.jpg
 ---
 
 I went to a conference a couple of weeks ago and I was reminded, again, how important they are for professional development....not to mention fun. 

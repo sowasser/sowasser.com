@@ -2,6 +2,7 @@
 title: "If you Wannabe their PhD Student: Re-framing Cold Emails"
 date: 2017-11-28 9:28:21
 tags: personal academics PhDlife
+image: /assets/images/cold_emails/oprah.jpg
 ---
 
 In [her article][cold] for [FemSTEM][femstem], [Melissa C. Márquez][MCM] makes the excellent point that cold emails are an essential part of networking. If you're not familiar with the term, emails are 'cold' when you are contacting someone whom you haven’t met or communicated with previously. They can be scary to send, but they're how I ended up doing research in Iceland and how I got my PhD project. Cold emails are particularly nerve-wracking when you're contacting someone you greatly respect. However, in this post, I want to break down the difference between respecting someone and fearing them. I think viewing your worth as equal to those further along in their careers can help combat “imposter syndrome” and improve your self-confidence. I'll also give you my tried and tested cold email format.

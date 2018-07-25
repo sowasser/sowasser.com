@@ -2,6 +2,7 @@
 title:  "Summer of Data Science June Update: A Greek Tragedy"
 date:  2017-06-26 16:25:32
 tags: datascience
+image: /assets/images/june_update/tragedy.png
 ---
 
 In my last blog post, I discussed my goals for the Summer of Data Science ([#SoDS17][#SoDS17]). I had grand plans to start investigating machine learning because I’m hoping to build a model from scratch using video of fish behavior this winter.  Unfortunately, instead of emerging as a deep learning prodigy, I now know your pain, [Icarus][Icarus].

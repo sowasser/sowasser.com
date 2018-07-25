@@ -2,6 +2,7 @@
 title:  "Aldulting 101: I Made Buisness Cards!"
 date:  2017-08-03 09:00:00
 tags: adulting conferences
+image: /assets/images/business_cards/card.jpg
 ---
 
 

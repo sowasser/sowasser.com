@@ -2,6 +2,7 @@
 title: "Highland Statistics or: How I Learned to Stop Worrying and Love Stats"
 date: 2017-10-30 14:15:13
 tags: academics modelling personal
+image: /assets/images/highland_stats/trondheim.jpg
 ---
 
 In this post, I'm going to discuss the statistics course I recently attended and my personal history with statistics and mathematics, as I think this is an area where many junior scientists, especially women, feel insecure. The course was with [Highland Statistics][highland]: Introduction to mixed modelling and GLMM (frequentist & Bayesian approaches). It just so happened to be in Trondheim Norway. A week of statistics and gorgeous scenery, what could be better?

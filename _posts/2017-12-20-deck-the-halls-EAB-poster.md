@@ -2,6 +2,7 @@
 title: "Deck the Halls with Shoals of Mackerel: I Presented a Poster!"
 date: 2017-12-20 10:53:26
 tags: conferences modelling PhDlife
+image: /assets/images/eab/ghent_canal.JPG
 ---
 
 To start my festive season, right around the start of Hanukkah in fact, I attended [Ecology Across Borders 2017][EAB], hosted by the [British Ecological Society (BES)][BES], with [The Ecological Society of Germany, Austria and Switzerland (GfÖ)][GFO], [Nederlands-Vlaamse vereniging voor ecologie (NecoV)][necov], and the [European Ecological Federation (EEF)][eef] in snowy Ghent, Belgium.
