@@ -930,10 +930,10 @@ body {
 	color: #666666; }
 
 ::selection {
-	background: #fae3df; }
+	background: #dff9fa; }
 
 ::-moz-selection {
-	background: #fae3df; }
+	background: #dff9fa; }
 
 a {
 	text-decoration: none;
