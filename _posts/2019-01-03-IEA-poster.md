@@ -1,5 +1,5 @@
 ---
-title: "A companion post to my poster "It's wrong but is it useful? Validating theoretical models of fish collective behaviour.""
+title: "A companion post to my poster: It's wrong but is it useful? Validating theoretical models of fish collective behaviour."
 data: 2019-01-03 10:48:01
 tags: conferences academics
 image:
