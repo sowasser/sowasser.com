@@ -17,7 +17,7 @@ To start working with real-world data, I digitized video of stickleback fish. Th
 
 To track the fish in the video, I used [LoggerPro][lp]. While you can track the position of each individual fish in each frame of video, since I am interested in overall position instead of questions of leadership and individual decision-making, I simply recorded the position of all fish (nose and tail so I could determine their direction), for each step of the video. In this example, ignore the colors. The program only has a limited set of colors, so all of the tracks are green after a point.
 
-<iframe width="640" height="360" src="https://drive.google.com/open?id=1pGBJLPgh8qlVz6FzwMktF5XjcnwJDXyT" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CXHi9ycQY9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
 
