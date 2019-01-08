@@ -9,13 +9,13 @@ I'm writing this post to accompany a poster presented at the [Irish Ecological A
 
 You can access a copy of the poster [here][poster].
 
-</br>
+<br>
 
 ### My theoretical model in Python
 
 I have built a Boids model of shoaling behavior in Python 3.6 using [Mesa][mesa], a modelling framework. You can access, download, and run my code via my [github repository][git].
 
-</br>
+<br>
 
 ### Incorporating video of real fish
 
@@ -26,7 +26,7 @@ To track the fish in the video, I used [LoggerPro][lp]. While you can track the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CXHi9ycQY9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
-</br> 
+<br> 
 
 Please get in touch if you want to know more, or discuss my work further!
 
