@@ -5,9 +5,9 @@ tags: conferences academics
 image: /assets/images/IEA19/iea_poster.png
 ---
 
-I'm writing this post to accompany a poster presented at the [Irish Ecological Association][IEA] conference in Galway, January 2019. I have some videos to provide a better idea of the data I'm working with.
+I'm writing this post to accompany a poster presented at the [Irish Ecological Association][IEA] conference in Galway, January 2019.
 
-You can access a copy of the poster [here][poster].
+You can access a copy of the poster [here][poster]. Below you'll find a link to my theoretical model and the video of stickleback fish that I'm using as a comparison for my model.
 
 <br>
 
