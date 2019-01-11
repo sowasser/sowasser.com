@@ -33,7 +33,7 @@ Please get in touch if you want to know more, or discuss my work further!
 
 
 [IEA]: https://www.britishecologicalsociety.org/membership-community/irish-ecological-association/
-[poster]: https://drive.google.com/file/d/1iboD1KEVauBHRCMgT6c2Zq8Gfv-cFHDd/view?usp=sharing
+[poster]: https://drive.google.com/open?id=1znj1eAU97AoXrNSR5SGrQ7u9kwk5bENX
 [lp]: https://www.vernier.com/products/software/lp/
 [mesa]: https://mesa.readthedocs.io/en/master/
 [git]: https://github.com/sowasser/fish-shoaling-model
