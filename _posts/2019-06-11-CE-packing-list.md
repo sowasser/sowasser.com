@@ -31,6 +31,7 @@ Also, if you'll be doing anything on deck, you'll need a pair of steel-toed boot
 * **Camera** - if you have one, the ship provides great opportunities for photographing birds, dolphins, and gorgeous scenery. If you want to be the first to know about sightings, hang out with the seabird and marine mammal observers on deck, or in the bridge.
 * **Binoculars** - similar to above, if you have a pair, they're good to bring, but there are also usually spare pairs on the bridge. You might have to wait your turn, though, if a whale or basking shark is spotted in the distance!
 * **Seasickness tablets, ginger** - this will depend on each person and their susceptibility to motion sickness. I'm not very susceptible, but I still bring tablets with me for the first night and just in case. When you're going to be at sea for a couple of weeks (especially in the North Atlantic), there's a fair chance that the weather will be bad at some point during the cruise. It's better to be prepared than to have to find tablets from someone else. For seasickness, I bring [Stugeron][stugeron], which is available from a pharmacy counter. It's an [antihistamine][antihist], like Benadryl or other allergy medication, which means that it also can act as a sleep aid, especially for the first couple of nights as your body adjusts. Aside from Stugeron, I bring ginger gummies. You can find gummy or capsule versions in pharmacies and health shops, or as candies, like [Gin Gins][gin]. Aside from tasting great (if you like ginger), [ginger can reduce nausea from motion sickness][ginger].
+* **Travel adapters** - the Explorer has both [UK/Irish][uk] and [European][eu] outlets, so if you want to be sure that you can always charge your devices, bring adapters/plugs for both outlets.
 
 
 {% include image.html img="assets/images/packing_list/CE_lounge.jpeg" title="Lounge/tv room on the Explorer" caption="Where a lot of the scientific crew spends their downtime." %}
@@ -58,3 +59,5 @@ I hope this list has been helpful. Life aboard the Explorer (or Voyager) is plen
 [antihist]: https://www.webmd.com/allergies/antihistamines-for-allergies
 [gin]: https://www.hollandandbarrett.ie/shop/product/gin-gins-original-chewy-ginger-candy-60015211
 [ginger]: https://www.ncbi.nlm.nih.gov/pubmed/12576305
+[uk]: https://www.worldstandards.eu/electricity/plugs-and-sockets/g/
+[eu]: https://www.worldstandards.eu/electricity/plugs-and-sockets/f/
