@@ -24,6 +24,7 @@ Also, if you'll be doing anything on deck, you'll need a pair of steel-toed boot
 
 {% include image.html img="assets/images/packing_list/CE_cabin.jpeg" title="Cabin on the Explorer" caption="Cabin on the Explorer. En-suite bathroom not pictured :)" %}
 
+<br>
 
 ### The Comforts
 * **Warm clothes** - the ship is fairly warm inside, and you can control the temperature in your cabin, but if you're spending a lot of time on deck or elbow-deep in cold fish, having warm, cozy clothes for work and while relaxing is important.
@@ -33,13 +34,20 @@ Also, if you'll be doing anything on deck, you'll need a pair of steel-toed boot
 * **Seasickness tablets, ginger** - this will depend on each person and their susceptibility to motion sickness. I'm not very susceptible, but I still bring tablets with me for the first night and just in case. When you're going to be at sea for a couple of weeks (especially in the North Atlantic), there's a fair chance that the weather will be bad at some point during the cruise. It's better to be prepared than to have to find tablets from someone else. For seasickness, I bring [Stugeron][stugeron], which is available from a pharmacy counter. It's an [antihistamine][antihist], like Benadryl or other allergy medication, which means that it also can act as a sleep aid, especially for the first couple of nights as your body adjusts. Aside from Stugeron, I bring ginger gummies. You can find gummy or capsule versions in pharmacies and health shops, or as candies, like [Gin Gins][gin]. Aside from tasting great (if you like ginger), [ginger can reduce nausea from motion sickness][ginger].
 
 
-{% include image.html img="assets/images/packing_list/CE_lounge.jpeg" title="Lounge/tv room on the Explorer" caption="Where a lot of the scientific crew spends their downtime!" %}
+{% include image.html img="assets/images/packing_list/CE_lounge.jpeg" title="Lounge/tv room on the Explorer" caption="Where a lot of the scientific crew spends their downtime." %}
+
+<br>
 
 ### The Extras
 * **herbal tea / snacks / hot sauce** - while the food on board is good, I like to supplement it with little special bits from home. In the evenings, I like to have herbal tea to avoid caffeine. Additionally, peppermint and ginger teas can help with digestion and nausea, which can be useful after a rich dinner on a rolling ship. As for snacks, there's plenty of food available, but I bring dark chocolate to satisfy my sweet tooth at night or after a late shift, instead of lots of biscuits. I also like to bring my own hot sauce, just because I'm picky and generally prefer hotter dishes than the Irish around me! If you're worried about seasickness, you can also bring some plain crackers or saltines to keep in your cabin in case you're not feeling up to leaving for a meal.
 * **Hard drive of movies & TV** - people who have spent a lot of time at sea or in remote locations without wifi often have a drive of movies and TV they've...ahem...acquired. If you have such a drive, it's nice to offer your collection to the rest of the crew, and then you can transfer any movies you want from someone else's collection.
 * **Work playlist** - while spending long hours looking out for wildlife or processing samples in the wet lab, it's nice to have music to listen to. If you'd like to DJ, it's a good idea to create a playlist or download songs you want from Spotify before you leave, as wifi is limited.
 * **Cash** - there's an opportunity to buy merch on board, so if you want something, bring some cash! Also useful if you're in port due to bad weather and have time to head for a pint.
+
+<br>
+
+I hope this list has been helpful. Life aboard the Explorer (or Voyager) is plenty comfortable, but you can pack some things to make the ship feel more like home. If you are headed out on a cruise soon, I wish you fair seas, good data, and lots of craic!
+
 
 
 [cv]: https://sowasser.com/CV18012/
