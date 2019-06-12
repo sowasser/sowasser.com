@@ -24,7 +24,6 @@ Also, if you'll be doing anything on deck, you'll need a pair of steel-toed boot
 
 {% include image.html img="assets/images/packing_list/CE_cabin.jpeg" title="Cabin on the Explorer" caption="Cabin on the Explorer. En-suite bathroom not pictured :)" %}
 
-<br>
 
 ### The Comforts
 * **Warm clothes** - the ship is fairly warm inside, and you can control the temperature in your cabin, but if you're spending a lot of time on deck or elbow-deep in cold fish, having warm, cozy clothes for work and while relaxing is important.
@@ -36,7 +35,6 @@ Also, if you'll be doing anything on deck, you'll need a pair of steel-toed boot
 
 {% include image.html img="assets/images/packing_list/CE_lounge.jpeg" title="Lounge/tv room on the Explorer" caption="Where a lot of the scientific crew spends their downtime." %}
 
-<br>
 
 ### The Extras
 * **herbal tea / snacks / hot sauce** - while the food on board is good, I like to supplement it with little special bits from home. In the evenings, I like to have herbal tea to avoid caffeine. Additionally, peppermint and ginger teas can help with digestion and nausea, which can be useful after a rich dinner on a rolling ship. As for snacks, there's plenty of food available, but I bring dark chocolate to satisfy my sweet tooth at night or after a late shift, instead of lots of biscuits. I also like to bring my own hot sauce, just because I'm picky and generally prefer hotter dishes than the Irish around me! If you're worried about seasickness, you can also bring some plain crackers or saltines to keep in your cabin in case you're not feeling up to leaving for a meal.
