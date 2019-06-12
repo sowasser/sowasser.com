@@ -1,6 +1,6 @@
 ---
 title: "Packing list for the RV Celtic Explorer"
-data: 2019-06-12 08:00:42
+data: 2019-06-11 08:00:42
 tags: fieldwork personal
 image: /assets/images/packing_list/CE_cork.jpeg
 ---
