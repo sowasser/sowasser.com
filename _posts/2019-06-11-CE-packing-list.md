@@ -45,7 +45,7 @@ Also, if you'll be doing anything on deck, you'll need a pair of steel-toed boot
 
 <br>
 
-I hope this list has been helpful. Life aboard the Explorer (or Voyager) is plenty comfortable, but you can pack some things to make the ship feel more like home. If you are headed out on a cruise soon, I wish you fair seas, good data, and lots of craic!
+I hope this list has been helpful. Life aboard the Explorer (or Voyager) is plenty comfortable, but you can pack some things to make the ship feel more like home. If you are headed out on a cruise soon, I wish you fair seas, useful data, and good craic!
 
 
 
