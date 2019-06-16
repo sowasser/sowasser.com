@@ -18,7 +18,7 @@ The **most** important things to pack are original copies of your:
 
 1. Passport
 2. [STCW-95 Personal Survival Techniques][pst] certificate
-3. Seafarer's Medical Certificate (available from a GP)
+3. ENG11 - Seafarer's Medical Certificate (available from a GP)
 
 Also, if you'll be doing anything on deck, you'll need a pair of steel-toed boots and oilskins (also called bibs). I have these [Dickies boots][boots]. They're lined with cosy fleece! I have bibs from [Grundéns bibs][bibs], but the [Guy Cotten bibs][guy] are also popular. You can choose whether you prefer understated green/black, or bold yellow/orange ;). While the boots and bibs are good enough to keep you dry in the wet lab, a waterproof jacket to go over the bibs is a good idea.
 
