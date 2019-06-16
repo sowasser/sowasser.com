@@ -18,7 +18,7 @@ The **most** important things to pack are original copies of your:
 
 1. Passport
 2. [STCW-95 Personal Survival Techniques][pst] certificate
-3. ENG11 - Seafarer's Medical Certificate (available from a GP)
+3. [ENG11 - Seafarer's Medical Certificate][eng11] (available from a GP)
 
 Also, if you'll be doing anything on deck, you'll need a pair of steel-toed boots and oilskins (also called bibs). I have these [Dickies boots][boots]. They're lined with cosy fleece! I have bibs from [Grundéns bibs][bibs], but the [Guy Cotten bibs][guy] are also popular. You can choose whether you prefer understated green/black, or bold yellow/orange ;). While the boots and bibs are good enough to keep you dry in the wet lab, a waterproof jacket to go over the bibs is a good idea.
 
@@ -52,6 +52,7 @@ I hope this list has been helpful. Life aboard the Explorer (or Voyager) is plen
 [cv]: https://sowasser.com/CV18012/
 [ce]: https://sowasser.com/CSHAS2018/
 [pst]: https://www.nmci.ie/short_courses/courseId/15/
+[eng11]: https://afloat.ie/safety/marine-warning/item/24055-seafarer-medical-certificate-form-3-eng11-from-1st-january-2013
 [boots]: https://www.dickiesworkwear.com/ie/dickies-groundwater-safety-boot-fw13200
 [bibs]: https://grundens.com/
 [guy]: https://www.waterproofs.ie/guy-cotten-barossa-bib-braces-green/
