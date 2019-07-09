@@ -71,6 +71,6 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate', 'jekyll-twitter-plugin']
+plugins: ['jekyll-paginate', 'jekyll-twitter-plugin']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
