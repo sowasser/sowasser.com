@@ -9,6 +9,8 @@ I'm writing this post to accompany a poster presented at the [Irish Ecological A
 
 You can access a copy of the poster [here][poster]. Below you'll find a link to my theoretical model and the video of stickleback fish that I'm using as a comparison for my model.
 
+{% include image.html img="assets/images/IEA19/iea_poster.png" title="Poster title" caption="Click to see the full poster!" url="https://drive.google.com/open?id=1znj1eAU97AoXrNSR5SGrQ7u9kwk5bENX" %}
+
 <br>
 
 ### My theoretical model in Python
