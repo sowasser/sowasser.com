@@ -4,13 +4,13 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4.1
+      - image: circleci/ruby:2.7
 
     steps:
       - checkout
 
       - run:
-          name: Install awscli, doesn't come by default with the ruby:2.4.1 image
+          name: Install awscli, doesn't come by default with the ruby image
           # Python 2.7 comes by default with the Ubuntu container CircleCI uses.
           # However it doesn't comes with python-dev which is required for installing pip. If not
           # installed there will be an error when installing some package called "wheel". The
